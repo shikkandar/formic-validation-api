@@ -3,7 +3,12 @@
     {
       "id": 1,
       "title": "The Catcher in the Rye",
-      "author": "J.D. Salinger",
+      "author": {
+        "name": "J.D. Salinger",
+        "birthYear": 1919,
+        "nationality": "American",
+        "biography": "Jerome David Salinger was an American writer known for his widely-read novel, 'The Catcher in the Rye.' He led a private life and was known for his aversion to publicity."
+      },
       "genre": "Fiction",
       "publicationYear": 1951,
       "isbn": "978-0-316-76948-0"
@@ -11,7 +16,12 @@
     {
       "id": 2,
       "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
+      "author": {
+        "name": "Harper Lee",
+        "birthYear": 1926,
+        "nationality": "American",
+        "biography": "Harper Lee was an American novelist best known for her Pulitzer Prize-winning novel 'To Kill a Mockingbird.' She was known for her reclusive lifestyle."
+      },
       "genre": "Classic",
       "publicationYear": 1960,
       "isbn": "978-0-06-112008-4"
@@ -19,7 +29,12 @@
     {
       "id": 3,
       "title": "1984",
-      "author": "George Orwell",
+      "author": {
+        "name": "George Orwell",
+        "birthYear": 1903,
+        "nationality": "British",
+        "biography": "George Orwell, the pen name of Eric Arthur Blair, was an English novelist and essayist. He is best known for his dystopian novel '1984' and the allegorical novella 'Animal Farm.'"
+      },
       "genre": "Dystopian",
       "publicationYear": 1949,
       "isbn": "978-0-452-28423-4"
@@ -27,7 +42,12 @@
     {
       "id": 4,
       "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
+      "author": {
+        "name": "F. Scott Fitzgerald",
+        "birthYear": 1896,
+        "nationality": "American",
+        "biography": "Francis Scott Key Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century. He is best known for his novel 'The Great Gatsby.'"
+      },
       "genre": "Classic",
       "publicationYear": 1925,
       "isbn": "978-0-7432-7356-5"
@@ -35,7 +55,12 @@
     {
       "id": 5,
       "title": "Pride and Prejudice",
-      "author": "Jane Austen",
+      "author": {
+        "name": "Jane Austen",
+        "birthYear": 1775,
+        "nationality": "British",
+        "biography": "Jane Austen was an English novelist known for her six major novels, including 'Pride and Prejudice.' Her works are considered classics of English literature."
+      },
       "genre": "Romance",
       "publicationYear": 1813,
       "isbn": "978-1-85326-000-1"
@@ -43,7 +68,12 @@
     {
       "id": 6,
       "title": "The Hobbit",
-      "author": "J.R.R. Tolkien",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "birthYear": 1892,
+        "nationality": "British",
+        "biography": "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic. He is best known for his high-fantasy works 'The Hobbit' and 'The Lord of the Rings.'"
+      },
       "genre": "Fantasy",
       "publicationYear": 1937,
       "isbn": "978-0-261-10295-6"
@@ -51,7 +81,12 @@
     {
       "id": 7,
       "title": "Harry Potter and the Sorcerer's Stone",
-      "author": "J.K. Rowling",
+      "author": {
+        "name": "J.K. Rowling",
+        "birthYear": 1965,
+        "nationality": "British",
+        "biography": "Joanne Rowling, known by her pen name J.K. Rowling, is a British author, philanthropist, and film producer. She is best known for the 'Harry Potter' series."
+      },
       "genre": "Fantasy",
       "publicationYear": 1997,
       "isbn": "978-0-7475-3269-6"
@@ -59,7 +94,12 @@
     {
       "id": 8,
       "title": "The Lord of the Rings",
-      "author": "J.R.R. Tolkien",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "birthYear": 1892,
+        "nationality": "British",
+        "biography": "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic. He is best known for his high-fantasy works 'The Hobbit' and 'The Lord of the Rings.'"
+      },
       "genre": "Fantasy",
       "publicationYear": 1954,
       "isbn": "978-0-261-10238-3"
@@ -67,7 +107,12 @@
     {
       "id": 9,
       "title": "The Hunger Games",
-      "author": "Suzanne Collins",
+      "author": {
+        "name": "Suzanne Collins",
+        "birthYear": 1962,
+        "nationality": "American",
+        "biography": "Suzanne Collins is an American television writer and novelist, best known as the author of 'The Hunger Games' trilogy."
+      },
       "genre": "Dystopian",
       "publicationYear": 2008,
       "isbn": "978-0-439-02348-1"
@@ -75,22 +120,15 @@
     {
       "id": 10,
       "title": "The Da Vinci Code",
-      "author": "Dan Brown",
+      "author": {
+        "name": "Dan Brown",
+        "birthYear": 1964,
+        "nationality": "American",
+        "biography": "Dan Brown is an American author known for his bestselling novels, including 'The Da Vinci Code' and 'Angels & Demons.'"
+      },
       "genre": "Mystery",
       "publicationYear": 2003,
       "isbn": "978-0-385-50420-1"
     }
-  ],
-  "authors": [
-    { "id": 1, "name": "J.D. Salinger", "birthYear": 1919, "nationality": "American", "biography": "Jerome David Salinger was an American writer known for his widely-read novel, 'The Catcher in the Rye.' He led a private life and was known for his aversion to publicity."},
-    { "id": 2, "name": "Harper Lee", "birthYear": 1926, "nationality": "American", "biography": "Harper Lee was an American novelist best known for her Pulitzer Prize-winning novel 'To Kill a Mockingbird.' She was known for her reclusive lifestyle."},
-    { "id": 3, "name": "George Orwell", "birthYear": 1903, "nationality": "British", "biography": "George Orwell, the pen name of Eric Arthur Blair, was an English novelist and essayist. He is best known for his dystopian novel '1984' and the allegorical novella 'Animal Farm.'"},
-    { "id": 4, "name": "F. Scott Fitzgerald", "birthYear": 1896, "nationality": "American", "biography": "Francis Scott Key Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century. He is best known for his novel 'The Great Gatsby.'"},
-    { "id": 5, "name": "Jane Austen", "birthYear": 1775, "nationality": "British", "biography": "Jane Austen was an English novelist known for her six major novels, including 'Pride and Prejudice.' Her works are considered classics of English literature."},
-    { "id": 6, "name": "J.R.R. Tolkien", "birthYear": 1892, "nationality": "British", "biography": "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic. He is best known for his high-fantasy works 'The Hobbit' and 'The Lord of the Rings.'"},
-    { "id": 7, "name": "J.K. Rowling", "birthYear": 1965, "nationality": "British", "biography": "Joanne Rowling, known by her pen name J.K. Rowling, is a British author, philanthropist, and film producer. She is best known for the 'Harry Potter' series."},
-    { "id": 8, "name": "Suzanne Collins", "birthYear": 1962, "nationality": "American", "biography": "Suzanne Collins is an American television writer and novelist, best known as the author of 'The Hunger Games' trilogy."},
-    { "id": 9, "name": "Dan Brown", "birthYear": 1964, "nationality": "American", "biography": "Dan Brown is an American author known for his bestselling novels, including 'The Da Vinci Code' and 'Angels & Demons.'"},
-    { "id": 10, "name": "Agatha Christie", "birthYear": 1890, "nationality": "British", "biography": "Dame Agatha Mary Clarissa Christie was an English writer known for her detective novels, particularly those revolving around fictional detectives Hercule Poirot and Miss Marple."}
   ]
 }
