@@ -129,6 +129,136 @@
       "genre": "Mystery",
       "publicationYear": 2003,
       "isbn": "978-0-385-50420-1"
+    },
+    {
+      "id": 11,
+      "title": "The Shining",
+      "author": {
+        "name": "Stephen King",
+        "birthYear": 1947,
+        "nationality": "American",
+        "biography": "Stephen King is an American author of horror, supernatural fiction, suspense, and fantasy novels. He is one of the most prolific and widely read authors in the world."
+      },
+      "genre": "Horror",
+      "publicationYear": 1977,
+      "isbn": "978-0-385-12167-5"
+    },
+    {
+      "id": 12,
+      "title": "Brave New World",
+      "author": {
+        "name": "Aldous Huxley",
+        "birthYear": 1894,
+        "nationality": "British",
+        "biography": "Aldous Huxley was an English writer and philosopher. He is best known for his dystopian novel 'Brave New World' and his essays."
+      },
+      "genre": "Dystopian",
+      "publicationYear": 1932,
+      "isbn": "978-0-06-085052-4"
+    },
+    {
+      "id": 13,
+      "title": "The Chronicles of Narnia",
+      "author": {
+        "name": "C.S. Lewis",
+        "birthYear": 1898,
+        "nationality": "British",
+        "biography": "Clive Staples Lewis was a British writer and scholar. He is best known for 'The Chronicles of Narnia,' a classic series of seven fantasy novels."
+      },
+      "genre": "Fantasy",
+      "publicationYear": 1950,
+      "isbn": "978-0-06-623850-0"
+    },
+    {
+      "id": 14,
+      "title": "One Hundred Years of Solitude",
+      "author": {
+        "name": "Gabriel García Márquez",
+        "birthYear": 1927,
+        "nationality": "Colombian",
+        "biography": "Gabriel García Márquez was a Colombian novelist and Nobel Prize winner. He is best known for his magical realist novel 'One Hundred Years of Solitude.'"
+      },
+      "genre": "Magical Realism",
+      "publicationYear": 1967,
+      "isbn": "978-0-06-088328-7"
+    },
+    {
+      "id": 15,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": {
+        "name": "Douglas Adams",
+        "birthYear": 1952,
+        "nationality": "British",
+        "biography": "Douglas Adams was an English author, scriptwriter, essayist, humorist, satirist, and dramatist. He is best known for 'The Hitchhiker's Guide to the Galaxy' series."
+      },
+      "genre": "Science Fiction",
+      "publicationYear": 1979,
+      "isbn": "978-0-345-39181-3"
+    },
+    {
+      "id": 16,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": {
+        "name": "Stieg Larsson",
+        "birthYear": 1954,
+        "nationality": "Swedish",
+        "biography": "Stieg Larsson was a Swedish journalist and writer. He is best known for the 'Millennium' series, including 'The Girl with the Dragon Tattoo.'"
+      },
+      "genre": "Mystery",
+      "publicationYear": 2005,
+      "isbn": "978-0-307-45342-5"
+    },
+    {
+      "id": 17,
+      "title": "A Game of Thrones",
+      "author": {
+        "name": "George R.R. Martin",
+        "birthYear": 1948,
+        "nationality": "American",
+        "biography": "George Raymond Richard Martin, often referred to as GRRM, is an American novelist and short story writer. He is best known for his epic fantasy series 'A Song of Ice and Fire.'"
+      },
+      "genre": "Fantasy",
+      "publicationYear": 1996,
+      "isbn": "978-0-553-57340-4"
+    },
+    {
+      "id": 18,
+      "title": "The Alchemist",
+      "author": {
+        "name": "Paulo Coelho",
+        "birthYear": 1947,
+        "nationality": "Brazilian",
+        "biography": "Paulo Coelho is a Brazilian lyricist and novelist. He is best known for his novel 'The Alchemist,' which has been translated into 80 languages."
+      },
+      "genre": "Philosophical Fiction",
+      "publicationYear": 1988,
+      "isbn": "978-0-06-112241-5"
+    },
+    {
+      "id": 19,
+      "title": "The Road",
+      "author": {
+        "name": "Cormac McCarthy",
+        "birthYear": 1933,
+        "nationality": "American",
+        "biography": "Cormac McCarthy is an American novelist, playwright, and screenwriter. He is best known for his novel 'The Road,' which won the Pulitzer Prize for Fiction."
+      },
+      "genre": "Post-Apocalyptic",
+      "publicationYear": 2006,
+      "isbn": "978-0-307-38789-9"
+    },
+    {
+      "id": 20,
+      "title": "The Fault in Our Stars",
+      "author": {
+        "name": "John Green",
+        "birthYear": 1977,
+        "nationality": "American",
+        "biography": "John Green is an American author and YouTube content creator. He is best known for his novel 'The Fault in Our Stars,' which explores themes of love and mortality."
+      },
+      "genre": "Young Adult",
+      "publicationYear": 2012,
+      "isbn": "978-0-525-47881-2"
     }
   ]
 }
