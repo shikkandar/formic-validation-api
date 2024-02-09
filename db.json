@@ -259,6 +259,137 @@
       "genre": "Young Adult",
       "publicationYear": 2012,
       "isbn": "978-0-525-47881-2"
+    },
+    {
+      "id": 21,
+      "title": "The Kite Runner",
+      "author": {
+        "name": "Khaled Hosseini",
+        "birthYear": 1965,
+        "nationality": "Afghan-American",
+        "biography": "Khaled Hosseini is an Afghan-American novelist and physician. He gained international acclaim for his debut novel 'The Kite Runner.'"
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 2003,
+      "isbn": "978-1-59448-000-3"
+    },
+    {
+      "id": 22,
+      "title": "The Stand",
+      "author": {
+        "name": "Stephen King",
+        "birthYear": 1947,
+        "nationality": "American",
+        "biography": "Stephen King is an American author of horror, supernatural fiction, suspense, and fantasy novels. 'The Stand' is one of his acclaimed works."
+      },
+      "genre": "Post-Apocalyptic",
+      "publicationYear": 1978,
+      "isbn": "978-0-385-12168-2"
+    },
+    {
+      "id": 23,
+      "title": "The Handmaid's Tale",
+      "author": {
+        "name": "Margaret Atwood",
+        "birthYear": 1939,
+        "nationality": "Canadian",
+        "biography": "Margaret Atwood is a Canadian poet, novelist, literary critic, essayist, and environmental activist. 'The Handmaid's Tale' is a dystopian masterpiece."
+      },
+      "genre": "Dystopian",
+      "publicationYear": 1985,
+      "isbn": "978-0-385-49081-8"
+    },
+    {
+      "id": 24,
+      "title": "Slaughterhouse-Five",
+      "author": {
+        "name": "Kurt Vonnegut",
+        "birthYear": 1922,
+        "nationality": "American",
+        "biography": "Kurt Vonnegut was an American writer known for his satirical novels. 'Slaughterhouse-Five' is a blend of science fiction and anti-war themes."
+      },
+      "genre": "Satire",
+      "publicationYear": 1969,
+      "isbn": "978-0-385-33384-9"
+    },
+    {
+      "id": 25,
+      "title": "The Catch-22",
+      "author": {
+        "name": "Joseph Heller",
+        "birthYear": 1923,
+        "nationality": "American",
+        "biography": "Joseph Heller was an American author of novels, short stories, plays, and screenplays. 'Catch-22' is a classic satirical novel."
+      },
+      "genre": "Satire",
+      "publicationYear": 1961,
+      "isbn": "978-0-684-80122-2"
+    },
+    {
+      "id": 26,
+      "title": "Frankenstein",
+      "author": {
+        "name": "Mary Shelley",
+        "birthYear": 1797,
+        "nationality": "British",
+        "biography": "Mary Shelley was an English novelist. 'Frankenstein' is her most famous work, often considered the first science fiction novel."
+      },
+      "genre": "Gothic Horror",
+      "publicationYear": 1818,
+      "isbn": "978-0-14-143947-1"
+    },
+    {
+      "id": 27,
+      "title": "Wuthering Heights",
+      "author": {
+        "name": "Emily Brontë",
+        "birthYear": 1818,
+        "nationality": "British",
+        "biography": "Emily Brontë was an English novelist and poet. 'Wuthering Heights' is her only novel and a classic of English literature."
+      },
+      "genre": "Gothic Fiction",
+      "publicationYear": 1847,
+      "isbn": "978-1-85326-012-4"
+    },
+    {
+      "id": 28,
+      "title": "The Picture of Dorian Gray",
+      "author": {
+        "name": "Oscar Wilde",
+        "birthYear": 1854,
+        "nationality": "Irish",
+        "biography": "Oscar Wilde was an Irish poet and playwright. 'The Picture of Dorian Gray' is a philosophical novel about the consequences of indulgence."
+      },
+      "genre": "Gothic Fiction",
+      "publicationYear": 1890,
+      "isbn": "978-1-61206-034-2"
+    },
+    {
+      "id": 29,
+      "title": "Dracula",
+      "author": {
+        "name": "Bram Stoker",
+        "birthYear": 1847,
+        "nationality": "Irish",
+        "biography": "Bram Stoker was an Irish author and theater manager. 'Dracula' is a Gothic horror novel that has become a classic of the vampire genre."
+      },
+      "genre": "Gothic Horror",
+      "publicationYear": 1897,
+      "isbn": "978-0-553-21228-0"
+    },
+    {
+      "id": 30,
+      "title": "The Road Not Taken and Other Poems",
+      "author": {
+        "name": "Robert Frost",
+        "birthYear": 1874,
+        "nationality": "American",
+        "biography": "Robert Frost was an American poet. His collection 'The Road Not Taken and Other Poems' is celebrated for its evocative exploration of nature and choice."
+      },
+      "genre": "Poetry",
+      "publicationYear": 1916,
+      "isbn": "N/A"
     }
+
   ]
 }
