@@ -129,6 +129,526 @@
       "genre": "Mystery",
       "publicationYear": 2003,
       "isbn": "978-0-385-50420-1"
+    },
+    {
+      "id": 11,
+      "title": "The Martian",
+      "author": {
+        "name": "Andy Weir",
+        "birthYear": 1972,
+        "nationality": "American",
+        "biography": "Andy Weir is an American novelist. 'The Martian' is a science fiction novel known for its accurate portrayal of scientific concepts and survival on Mars."
+      },
+      "genre": "Science Fiction",
+      "publicationYear": 2011,
+      "isbn": "978-0-553-41802-6"
+    },
+    {
+      "id": 12,
+      "title": "The Color Purple",
+      "author": {
+        "name": "Alice Walker",
+        "birthYear": 1944,
+        "nationality": "American",
+        "biography": "Alice Walker is an American novelist and poet. 'The Color Purple' is a Pulitzer Prize-winning novel that explores African-American women's lives in the Southern United States in the 1930s."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1982,
+      "isbn": "978-0-15-602835-6"
+    },
+    {
+      "id": 13,
+      "title": "Brave New World",
+      "author": {
+        "name": "Aldous Huxley",
+        "birthYear": 1894,
+        "nationality": "British",
+        "biography": "Aldous Huxley was an English writer and philosopher. 'Brave New World' is a dystopian novel that explores the dehumanizing effects of technology and social conditioning."
+      },
+      "genre": "Dystopian",
+      "publicationYear": 1932,
+      "isbn": "978-0-06-085052-4"
+    },
+    {
+      "id": 14,
+      "title": "The Shining",
+      "author": {
+        "name": "Stephen King",
+        "birthYear": 1947,
+        "nationality": "American",
+        "biography": "Stephen King is an American author known for his horror and supernatural fiction. 'The Shining' is a classic horror novel set in an isolated hotel."
+      },
+      "genre": "Horror",
+      "publicationYear": 1977,
+      "isbn": "978-0-385-12167-5"
+    },
+    {
+      "id": 15,
+      "title": "The Alchemist",
+      "author": {
+        "name": "Paulo Coelho",
+        "birthYear": 1947,
+        "nationality": "Brazilian",
+        "biography": "Paulo Coelho is a Brazilian author known for his philosophical novels. 'The Alchemist' is a bestselling novel that explores the journey to find one's destiny."
+      },
+      "genre": "Philosophical Fiction",
+      "publicationYear": 1988,
+      "isbn": "978-0-06-112008-4"
+    },
+    {
+      "id": 16,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": {
+        "name": "Douglas Adams",
+        "birthYear": 1952,
+        "nationality": "British",
+        "biography": "Douglas Adams was an English author and humorist. 'The Hitchhiker's Guide to the Galaxy' is a comedic science fiction series."
+      },
+      "genre": "Science Fiction",
+      "publicationYear": 1979,
+      "isbn": "978-0-330-25864-7"
+    },
+    {
+      "id": 17,
+      "title": "Gone with the Wind",
+      "author": {
+        "name": "Margaret Mitchell",
+        "birthYear": 1900,
+        "nationality": "American",
+        "biography": "Margaret Mitchell was an American novelist. 'Gone with the Wind' is a historical novel set against the backdrop of the American Civil War and Reconstruction era."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1936,
+      "isbn": "978-0-684-80122-2"
+    },
+    {
+      "id": 18,
+      "title": "One Hundred Years of Solitude",
+      "author": {
+        "name": "Gabriel García Márquez",
+        "birthYear": 1927,
+        "nationality": "Colombian",
+        "biography": "Gabriel García Márquez was a Colombian novelist and Nobel Prize winner. 'One Hundred Years of Solitude' is a landmark magical realist novel."
+      },
+      "genre": "Magical Realism",
+      "publicationYear": 1967,
+      "isbn": "978-0-06-112008-4"
+    },
+    {
+      "id": 19,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": {
+        "name": "Stieg Larsson",
+        "birthYear": 1954,
+        "nationality": "Swedish",
+        "biography": "Stieg Larsson was a Swedish journalist and author. 'The Girl with the Dragon Tattoo' is a psychological thriller."
+      },
+      "genre": "Mystery",
+      "publicationYear": 2005,
+      "isbn": "978-0-307-27572-2"
+    },
+    {
+      "id": 20,
+      "title": "Slaughterhouse-Five",
+      "author": {
+        "name": "Kurt Vonnegut",
+        "birthYear": 1922,
+        "nationality": "American",
+        "biography": "Kurt Vonnegut was an American writer known for his satirical novels. 'Slaughterhouse-Five' is an anti-war novel blending science fiction with autobiography."
+      },
+      "genre": "Satire",
+      "publicationYear": 1969,
+      "isbn": "978-0-385-33384-9"
+    },
+    {
+      "id": 21,
+      "title": "The Grapes of Wrath",
+      "author": {
+        "name": "John Steinbeck",
+        "birthYear": 1902,
+        "nationality": "American",
+        "biography": "John Steinbeck was an American author and Nobel Prize winner. 'The Grapes of Wrath' is a classic novel depicting the struggles of migrant workers during the Great Depression."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1939,
+      "isbn": "978-0-14-303943-3"
+    },
+    {
+      "id": 22,
+      "title": "The Handmaid's Tale",
+      "author": {
+        "name": "Margaret Atwood",
+        "birthYear": 1939,
+        "nationality": "Canadian",
+        "biography": "Margaret Atwood is a Canadian author known for her speculative fiction. 'The Handmaid's Tale' is a dystopian novel exploring themes of power and oppression."
+      },
+      "genre": "Dystopian",
+      "publicationYear": 1985,
+      "isbn": "978-0-385-49081-8"
+    },
+    {
+      "id": 23,
+      "title": "The Road",
+      "author": {
+        "name": "Cormac McCarthy",
+        "birthYear": 1933,
+        "nationality": "American",
+        "biography": "Cormac McCarthy is an American novelist and Pulitzer Prize winner. 'The Road' is a post-apocalyptic novel following a father and son's journey."
+      },
+      "genre": "Post-apocalyptic",
+      "publicationYear": 2006,
+      "isbn": "978-0-307-38789-9"
+    },
+    {
+      "id": 24,
+      "title": "The Pillars of the Earth",
+      "author": {
+        "name": "Ken Follett",
+        "birthYear": 1949,
+        "nationality": "Welsh",
+        "biography": "Ken Follett is a Welsh author known for his historical novels. 'The Pillars of the Earth' is a historical epic set in the 12th century."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1989,
+      "isbn": "978-0-451-18095-6"
+    },
+    {
+      "id": 25,
+      "title": "The Catcher in the Rye",
+      "author": {
+        "name": "J.D. Salinger",
+        "birthYear": 1919,
+        "nationality": "American",
+        "biography": "Jerome David Salinger was an American writer known for his widely-read novel, 'The Catcher in the Rye.' He led a private life and was known for his aversion to publicity."
+      },
+      "genre": "Fiction",
+      "publicationYear": 1951,
+      "isbn": "978-0-316-76948-0"
+    },
+    {
+      "id": 26,
+      "title": "To Kill a Mockingbird",
+      "author": {
+        "name": "Harper Lee",
+        "birthYear": 1926,
+        "nationality": "American",
+        "biography": "Harper Lee was an American novelist best known for her Pulitzer Prize-winning novel 'To Kill a Mockingbird.' She was known for her reclusive lifestyle."
+      },
+      "genre": "Classic",
+      "publicationYear": 1960,
+      "isbn": "978-0-06-112008-4"
+    },
+    {
+      "id": 27,
+      "title": "1984",
+      "author": {
+        "name": "George Orwell",
+        "birthYear": 1903,
+        "nationality": "British",
+        "biography": "George Orwell, the pen name of Eric Arthur Blair, was an English novelist and essayist. He is best known for his dystopian novel '1984' and the allegorical novella 'Animal Farm.'"
+      },
+      "genre": "Dystopian",
+      "publicationYear": 1949,
+      "isbn": "978-0-452-28423-4"
+    },
+    {
+      "id": 28,
+      "title": "The Great Gatsby",
+      "author": {
+        "name": "F. Scott Fitzgerald",
+        "birthYear": 1896,
+        "nationality": "American",
+        "biography": "Francis Scott Key Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century. He is best known for his novel 'The Great Gatsby.'"
+      },
+      "genre": "Classic",
+      "publicationYear": 1925,
+      "isbn": "978-0-7432-7356-5"
+    },
+    {
+      "id": 29,
+      "title": "Pride and Prejudice",
+      "author": {
+        "name": "Jane Austen",
+        "birthYear": 1775,
+        "nationality": "British",
+        "biography": "Jane Austen was an English novelist known for her six major novels, including 'Pride and Prejudice.' Her works are considered classics of English literature."
+      },
+      "genre": "Romance",
+      "publicationYear": 1813,
+      "isbn": "978-1-85326-000-1"
+    },
+    {
+      "id": 30,
+      "title": "The Hobbit",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "birthYear": 1892,
+        "nationality": "British",
+        "biography": "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic. He is best known for his high-fantasy works 'The Hobbit' and 'The Lord of the Rings.'"
+      },
+      "genre": "Fantasy",
+      "publicationYear": 1937,
+      "isbn": "978-0-261-10295-6"
+    },
+    {
+      "id": 31,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": {
+        "name": "J.K. Rowling",
+        "birthYear": 1965,
+        "nationality": "British",
+        "biography": "Joanne Rowling, known by her pen name J.K. Rowling, is a British author, philanthropist, and film producer. She is best known for the 'Harry Potter' series."
+      },
+      "genre": "Fantasy",
+      "publicationYear": 1997,
+      "isbn": "978-0-7475-3269-6"
+    },
+    {
+      "id": 32,
+      "title": "The Lord of the Rings",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "birthYear": 1892,
+        "nationality": "British",
+        "biography": "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic. He is best known for his high-fantasy works 'The Hobbit' and 'The Lord of the Rings.'"
+      },
+      "genre": "Fantasy",
+      "publicationYear": 1954,
+      "isbn": "978-0-261-10238-3"
+    },
+    {
+      "id": 33,
+      "title": "The Hunger Games",
+      "author": {
+        "name": "Suzanne Collins",
+        "birthYear": 1962,
+        "nationality": "American",
+        "biography": "Suzanne Collins is an American television writer and novelist, best known as the author of 'The Hunger Games' trilogy."
+      },
+      "genre": "Dystopian",
+      "publicationYear": 2008,
+      "isbn": "978-0-439-02348-1"
+    },
+    {
+      "id": 34,
+      "title": "The Da Vinci Code",
+      "author": {
+        "name": "Dan Brown",
+        "birthYear": 1964,
+        "nationality": "American",
+        "biography": "Dan Brown is an American author known for his bestselling novels, including 'The Da Vinci Code' and 'Angels & Demons.'"
+      },
+      "genre": "Mystery",
+      "publicationYear": 2003,
+      "isbn": "978-0-385-50420-1"
+    },
+    {
+      "id": 35,
+      "title": "The Martian",
+      "author": {
+        "name": "Andy Weir",
+        "birthYear": 1972,
+        "nationality": "American",
+        "biography": "Andy Weir is an American novelist. 'The Martian' is a science fiction novel known for its accurate portrayal of scientific concepts and survival on Mars."
+      },
+      "genre": "Science Fiction",
+      "publicationYear": 2011,
+      "isbn": "978-0-553-41802-6"
+    },
+    {
+      "id": 36,
+      "title": "The Color Purple",
+      "author": {
+        "name": "Alice Walker",
+        "birthYear": 1944,
+        "nationality": "American",
+        "biography": "Alice Walker is an American novelist and poet. 'The Color Purple' is a Pulitzer Prize-winning novel that explores African-American women's lives in the Southern United States in the 1930s."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1982,
+      "isbn": "978-0-15-602835-6"
+    },
+    {
+      "id": 37,
+      "title": "Brave New World",
+      "author": {
+        "name": "Aldous Huxley",
+        "birthYear": 1894,
+        "nationality": "British",
+        "biography": "Aldous Huxley was an English writer and philosopher. 'Brave New World' is a dystopian novel that explores the dehumanizing effects of technology and social conditioning."
+      },
+      "genre": "Dystopian",
+      "publicationYear": 1932,
+      "isbn": "978-0-06-085052-4"
+    },
+    {
+      "id": 38,
+      "title": "The Shining",
+      "author": {
+        "name": "Stephen King",
+        "birthYear": 1947,
+        "nationality": "American",
+        "biography": "Stephen King is an American author known for his horror and supernatural fiction. 'The Shining' is a classic horror novel set in an isolated hotel."
+      },
+      "genre": "Horror",
+      "publicationYear": 1977,
+      "isbn": "978-0-385-12167-5"
+    },
+    {
+      "id": 39,
+      "title": "The Alchemist",
+      "author": {
+        "name": "Paulo Coelho",
+        "birthYear": 1947,
+        "nationality": "Brazilian",
+        "biography": "Paulo Coelho is a Brazilian author known for his philosophical novels. 'The Alchemist' is a bestselling novel that explores the journey to find one's destiny."
+      },
+      "genre": "Philosophical Fiction",
+      "publicationYear": 1988,
+      "isbn": "978-0-06-112008-4"
+    },
+    {
+      "id": 40,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": {
+        "name": "Douglas Adams",
+        "birthYear": 1952,
+        "nationality": "British",
+        "biography": "Douglas Adams was an English author and humorist. 'The Hitchhiker's Guide to the Galaxy' is a comedic science fiction series."
+      },
+      "genre": "Science Fiction",
+      "publicationYear": 1979,
+      "isbn": "978-0-330-25864-7"
+    },
+    {
+      "id": 41,
+      "title": "Gone with the Wind",
+      "author": {
+        "name": "Margaret Mitchell",
+        "birthYear": 1900,
+        "nationality": "American",
+        "biography": "Margaret Mitchell was an American novelist. 'Gone with the Wind' is a historical novel set against the backdrop of the American Civil War and Reconstruction era."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1936,
+      "isbn": "978-0-684-80122-2"
+    },
+    {
+      "id": 42,
+      "title": "One Hundred Years of Solitude",
+      "author": {
+        "name": "Gabriel García Márquez",
+        "birthYear": 1927,
+        "nationality": "Colombian",
+        "biography": "Gabriel García Márquez was a Colombian novelist and Nobel Prize winner. 'One Hundred Years of Solitude' is a landmark magical realist novel."
+      },
+      "genre": "Magical Realism",
+      "publicationYear": 1967,
+      "isbn": "978-0-06-112008-4"
+    },
+    {
+      "id": 43,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": {
+        "name": "Stieg Larsson",
+        "birthYear": 1954,
+        "nationality": "Swedish",
+        "biography": "Stieg Larsson was a Swedish journalist and author. 'The Girl with the Dragon Tattoo' is a psychological thriller."
+      },
+      "genre": "Mystery",
+      "publicationYear": 2005,
+      "isbn": "978-0-307-27572-2"
+    },
+    {
+      "id": 44,
+      "title": "Slaughterhouse-Five",
+      "author": {
+        "name": "Kurt Vonnegut",
+        "birthYear": 1922,
+        "nationality": "American",
+        "biography": "Kurt Vonnegut was an American writer known for his satirical novels. 'Slaughterhouse-Five' is an anti-war novel blending science fiction with autobiography."
+      },
+      "genre": "Satire",
+      "publicationYear": 1969,
+      "isbn": "978-0-385-33384-9"
+    },
+    {
+      "id": 45,
+      "title": "The Grapes of Wrath",
+      "author": {
+        "name": "John Steinbeck",
+        "birthYear": 1902,
+        "nationality": "American",
+        "biography": "John Steinbeck was an American author and Nobel Prize winner. 'The Grapes of Wrath' is a classic novel depicting the struggles of migrant workers during the Great Depression."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1939,
+      "isbn": "978-0-14-303943-3"
+    },
+    {
+      "id": 46,
+      "title": "The Handmaid's Tale",
+      "author": {
+        "name": "Margaret Atwood",
+        "birthYear": 1939,
+        "nationality": "Canadian",
+        "biography": "Margaret Atwood is a Canadian author known for her speculative fiction. 'The Handmaid's Tale' is a dystopian novel exploring themes of power and oppression."
+      },
+      "genre": "Dystopian",
+      "publicationYear": 1985,
+      "isbn": "978-0-385-49081-8"
+    },
+    {
+      "id": 47,
+      "title": "The Road",
+      "author": {
+        "name": "Cormac McCarthy",
+        "birthYear": 1933,
+        "nationality": "American",
+        "biography": "Cormac McCarthy is an American novelist and Pulitzer Prize winner. 'The Road' is a post-apocalyptic novel following a father and son's journey."
+      },
+      "genre": "Post-apocalyptic",
+      "publicationYear": 2006,
+      "isbn": "978-0-307-38789-9"
+    },
+    {
+      "id": 48,
+      "title": "The Pillars of the Earth",
+      "author": {
+        "name": "Ken Follett",
+        "birthYear": 1949,
+        "nationality": "Welsh",
+        "biography": "Ken Follett is a Welsh author known for his historical novels. 'The Pillars of the Earth' is a historical epic set in the 12th century."
+      },
+      "genre": "Historical Fiction",
+      "publicationYear": 1989,
+      "isbn": "978-0-451-18095-6"
+    },
+    {
+      "id": 49,
+      "title": "The Catcher in the Rye",
+      "author": {
+        "name": "J.D. Salinger",
+        "birthYear": 1919,
+        "nationality": "American",
+        "biography": "Jerome David Salinger was an American writer known for his widely-read novel, 'The Catcher in the Rye.' He led a private life and was known for his aversion to publicity."
+      },
+      "genre": "Fiction",
+      "publicationYear": 1951,
+      "isbn": "978-0-316-76948-0"
+    },
+    {
+      "id": 50,
+      "title": "To Kill a Mockingbird",
+      "author": {
+        "name": "Harper Lee",
+        "birthYear": 1926,
+        "nationality": "American",
+        "biography": "Harper Lee was an American novelist best known for her Pulitzer Prize-winning novel 'To Kill a Mockingbird.' She was known for her reclusive lifestyle."
+      },
+      "genre": "Classic",
+      "publicationYear": 1960,
+      "isbn": "978-0-06-112008-4"
     }
   ]
 }
